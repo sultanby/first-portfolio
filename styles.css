@@ -61,6 +61,7 @@ hr {
 }
 a {
   color:black;
+  text-decoration: underline;
 }
 .termins {
   font-style: italic;
